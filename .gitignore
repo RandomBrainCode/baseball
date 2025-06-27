@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 /main.duckdb
+
+# Data files
+.data/
+*.parquet
